@@ -3,6 +3,7 @@
 /public/storage
 /storage/*.key
 /vendor
+!vencor/crocodicstudio
 /.idea
 /.vagrant
 Homestead.json
