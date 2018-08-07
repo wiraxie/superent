@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/xdan/datetimepicker",
   "devDependencies": {
-    "concat-cli": "^1.0.1",
+    "concat-cli": "^4.0.0",
     "uglifyjs": "^2.4.10"
   }
 }
