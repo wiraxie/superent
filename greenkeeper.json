@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "package.json",
+        "public/vendor/crudbooster/assets/datetimepicker-master/package.json"
+      ]
+    }
+  }
+}
